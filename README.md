@@ -1,3 +1,3 @@
 # To-Do-List
 
-Simple to-do-list created with html, CSS, and JavaScript.
+Simple to-do-list website created with html, CSS, and JavaScript.
