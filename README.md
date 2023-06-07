@@ -1,3 +1,3 @@
 # To-Do-List
 
-To-do-list website created with html, CSS, and JavaScript.
+To-do-list website created with HTML, CSS, and JavaScript.
